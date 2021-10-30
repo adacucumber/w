@@ -1,6 +1,6 @@
-## Single pool operator - ADACUCUMBER
+## Single pool operator - ADACucumber
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please consider staking with my pool to help with Cardano decentralisation
 
 ### Markdown
 
