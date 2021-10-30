@@ -1,3 +1,9 @@
-<div class="code-header">
-    <button class="copy-code-button" aria-label="Copy to clipboard"></button>
+<div class="copy-code-container">
+    <button class="copy-code-button"
+         aria-label="Copy to clipboard"
+         data-code="{{ include.code | escape }}"
+    ></button>
 </div>
+```
+{{ include.code }}
+```
